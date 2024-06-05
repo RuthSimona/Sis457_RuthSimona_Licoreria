@@ -3,36 +3,52 @@
   "WorkspaceRootPath": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|d:\\4to semestre\\salvacion\\sis457_ruthsimona_licoreria\\sis457licoreria\\cplicoreria\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmautenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmautenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2E9E1CF-6AF2-4E9F-9091-FC7E2F9C7522}|ClnLicoreria\\ClnLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\clnlicoreria\\ventacln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E9E1CF-6AF2-4E9F-9091-FC7E2F9C7522}|ClnLicoreria\\ClnLicoreria.csproj|solutionrelative:clnlicoreria\\ventacln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2E9E1CF-6AF2-4E9F-9091-FC7E2F9C7522}|ClnLicoreria\\ClnLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\clnlicoreria\\productocln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E9E1CF-6AF2-4E9F-9091-FC7E2F9C7522}|ClnLicoreria\\ClnLicoreria.csproj|solutionrelative:clnlicoreria\\productocln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmautenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmautenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmautenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmautenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -59,14 +75,6 @@
       "RelativeMoniker": "D:0:0:{A2E9E1CF-6AF2-4E9F-9091-FC7E2F9C7522}|ClnLicoreria\\ClnLicoreria.csproj|solutionrelative:clnlicoreria\\usuariocln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E9E1CF-6AF2-4E9F-9091-FC7E2F9C7522}|ClnLicoreria\\ClnLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\clnlicoreria\\ventacln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E9E1CF-6AF2-4E9F-9091-FC7E2F9C7522}|ClnLicoreria\\ClnLicoreria.csproj|solutionrelative:clnlicoreria\\ventacln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2E9E1CF-6AF2-4E9F-9091-FC7E2F9C7522}|ClnLicoreria\\ClnLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\clnlicoreria\\ventadetallecln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2E9E1CF-6AF2-4E9F-9091-FC7E2F9C7522}|ClnLicoreria\\ClnLicoreria.csproj|solutionrelative:clnlicoreria\\ventadetallecln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -77,14 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2E9E1CF-6AF2-4E9F-9091-FC7E2F9C7522}|ClnLicoreria\\ClnLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\clnlicoreria\\productocln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E9E1CF-6AF2-4E9F-9091-FC7E2F9C7522}|ClnLicoreria\\ClnLicoreria.csproj|solutionrelative:clnlicoreria\\productocln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|solutionrelative:cplicoreria\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08DBA66D-78CA-431F-81A1-2DEFF3F4A4B1}|CpLicoreria\\CpLicoreria.csproj|D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\cplicoreria\\frmempleado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,25 +114,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "FrmPrincipal.cs",
               "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "CpLicoreria\\FrmPrincipal.cs",
               "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmPrincipal.cs",
               "RelativeToolTip": "CpLicoreria\\FrmPrincipal.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAwwHsAAAAJAAAA",
+              "ViewState": "AQIAAFsAAAAAAAAAAAA9wHsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T16:57:06.174Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ClienteCln.cs",
               "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\ClnLicoreria\\ClienteCln.cs",
               "RelativeDocumentMoniker": "ClnLicoreria\\ClienteCln.cs",
@@ -145,150 +144,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "FrmVenta.cs [Design]",
+              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmVenta.cs",
+              "RelativeDocumentMoniker": "CpLicoreria\\FrmVenta.cs",
+              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmVenta.cs [Design]",
+              "RelativeToolTip": "CpLicoreria\\FrmVenta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:33:53.798Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "FrmVenta.cs",
               "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmVenta.cs",
               "RelativeDocumentMoniker": "CpLicoreria\\FrmVenta.cs",
               "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmVenta.cs",
               "RelativeToolTip": "CpLicoreria\\FrmVenta.cs",
-              "ViewState": "AQIAAJoAAAAAAAAAAAAmwKkAAAAMAAAA",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAwwCwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T01:14:38.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmProducto.cs",
-              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmProducto.cs",
-              "RelativeDocumentMoniker": "CpLicoreria\\FrmProducto.cs",
-              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmProducto.cs",
-              "RelativeToolTip": "CpLicoreria\\FrmProducto.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAqwFMAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T00:47:23.033Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmAutenticacion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmAutenticacion.cs",
-              "RelativeDocumentMoniker": "CpLicoreria\\FrmAutenticacion.cs",
-              "ToolTip": "D:\\4to Semestre\\Proyecto Sis457\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmAutenticacion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\Proyecto Sis457\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmAutenticacion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T02:19:23.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmEmpleado.cs",
-              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmEmpleado.cs",
-              "RelativeDocumentMoniker": "CpLicoreria\\FrmEmpleado.cs",
-              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmEmpleado.cs",
-              "RelativeToolTip": "CpLicoreria\\FrmEmpleado.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAmwFAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T01:03:52.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmCliente.cs",
-              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmCliente.cs",
-              "RelativeDocumentMoniker": "CpLicoreria\\FrmCliente.cs",
-              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmCliente.cs",
-              "RelativeToolTip": "CpLicoreria\\FrmCliente.cs",
-              "ViewState": "AQIAAJEAAAAAAAAAAAAmwJ0AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T00:36:47.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FrmCliente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmCliente.cs",
-              "RelativeDocumentMoniker": "CpLicoreria\\FrmCliente.cs",
-              "ToolTip": "D:\\4to Semestre\\Proyecto Sis457\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmCliente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\Proyecto Sis457\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmCliente.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T18:03:50.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FrmAutenticacion.cs",
-              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmAutenticacion.cs",
-              "RelativeDocumentMoniker": "CpLicoreria\\FrmAutenticacion.cs",
-              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmAutenticacion.cs",
-              "RelativeToolTip": "CpLicoreria\\FrmAutenticacion.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T02:32:46.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmPrincipal.cs",
-              "RelativeDocumentMoniker": "CpLicoreria\\FrmPrincipal.cs",
-              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CpLicoreria\\FrmPrincipal.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T16:01:37.637Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FrmPrincipal.Designer.cs",
-              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmPrincipal.Designer.cs",
-              "RelativeDocumentMoniker": "CpLicoreria\\FrmPrincipal.Designer.cs",
-              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmPrincipal.Designer.cs",
-              "RelativeToolTip": "CpLicoreria\\FrmPrincipal.Designer.cs",
-              "ViewState": "AQIAANwBAAAAAAAAAAAowO0BAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T04:37:32.628Z",
+              "WhenOpened": "2024-06-05T01:14:38.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\Program.cs",
-              "RelativeDocumentMoniker": "CpLicoreria\\Program.cs",
-              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\Program.cs",
-              "RelativeToolTip": "CpLicoreria\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T16:14:42.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Util.cs",
-              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\Util.cs",
-              "RelativeDocumentMoniker": "CpLicoreria\\Util.cs",
-              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\Util.cs",
-              "RelativeToolTip": "CpLicoreria\\Util.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAGwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T02:53:29.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UsuarioCln.cs",
-              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\ClnLicoreria\\UsuarioCln.cs",
-              "RelativeDocumentMoniker": "ClnLicoreria\\UsuarioCln.cs",
-              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\ClnLicoreria\\UsuarioCln.cs",
-              "RelativeToolTip": "ClnLicoreria\\UsuarioCln.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAkwA0AAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T01:06:14.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "VentaCln.cs",
               "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\ClnLicoreria\\VentaCln.cs",
               "RelativeDocumentMoniker": "ClnLicoreria\\VentaCln.cs",
@@ -300,7 +181,159 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmProducto.cs",
+              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmProducto.cs",
+              "RelativeDocumentMoniker": "CpLicoreria\\FrmProducto.cs",
+              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmProducto.cs",
+              "RelativeToolTip": "CpLicoreria\\FrmProducto.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAFMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:47:23.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmProducto.cs",
+              "RelativeDocumentMoniker": "CpLicoreria\\FrmProducto.cs",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sis457\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Proyecto Sis457\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:47:15.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAutenticacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmAutenticacion.cs",
+              "RelativeDocumentMoniker": "CpLicoreria\\FrmAutenticacion.cs",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sis457\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmAutenticacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Proyecto Sis457\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmAutenticacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:19:23.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoCln.cs",
+              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\ClnLicoreria\\ProductoCln.cs",
+              "RelativeDocumentMoniker": "ClnLicoreria\\ProductoCln.cs",
+              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\ClnLicoreria\\ProductoCln.cs",
+              "RelativeToolTip": "ClnLicoreria\\ProductoCln.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:41:56.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAutenticacion.cs",
+              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmAutenticacion.cs",
+              "RelativeDocumentMoniker": "CpLicoreria\\FrmAutenticacion.cs",
+              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmAutenticacion.cs",
+              "RelativeToolTip": "CpLicoreria\\FrmAutenticacion.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:32:46.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmEmpleado.cs",
+              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmEmpleado.cs",
+              "RelativeDocumentMoniker": "CpLicoreria\\FrmEmpleado.cs",
+              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmEmpleado.cs",
+              "RelativeToolTip": "CpLicoreria\\FrmEmpleado.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAmwFAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:03:52.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmCliente.cs",
+              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmCliente.cs",
+              "RelativeDocumentMoniker": "CpLicoreria\\FrmCliente.cs",
+              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmCliente.cs",
+              "RelativeToolTip": "CpLicoreria\\FrmCliente.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAmwJ0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:36:47.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmCliente.cs",
+              "RelativeDocumentMoniker": "CpLicoreria\\FrmCliente.cs",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sis457\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Proyecto Sis457\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:03:50.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "CpLicoreria\\FrmPrincipal.cs",
+              "ToolTip": "D:\\4to Semestre\\Proyecto Sis457\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Proyecto Sis457\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:01:37.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmPrincipal.Designer.cs",
+              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "CpLicoreria\\FrmPrincipal.Designer.cs",
+              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmPrincipal.Designer.cs",
+              "RelativeToolTip": "CpLicoreria\\FrmPrincipal.Designer.cs",
+              "ViewState": "AQIAANwBAAAAAAAAAAAowO0BAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:37:32.628Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\Program.cs",
+              "RelativeDocumentMoniker": "CpLicoreria\\Program.cs",
+              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\Program.cs",
+              "RelativeToolTip": "CpLicoreria\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:14:42.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Util.cs",
+              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\Util.cs",
+              "RelativeDocumentMoniker": "CpLicoreria\\Util.cs",
+              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\Util.cs",
+              "RelativeToolTip": "CpLicoreria\\Util.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAGwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:53:29.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuarioCln.cs",
+              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\ClnLicoreria\\UsuarioCln.cs",
+              "RelativeDocumentMoniker": "ClnLicoreria\\UsuarioCln.cs",
+              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\ClnLicoreria\\UsuarioCln.cs",
+              "RelativeToolTip": "ClnLicoreria\\UsuarioCln.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:06:14.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "VentaDetalleCln.cs",
               "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\ClnLicoreria\\VentaDetalleCln.cs",
               "RelativeDocumentMoniker": "ClnLicoreria\\VentaDetalleCln.cs",
@@ -312,18 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FrmVenta.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmVenta.cs",
-              "RelativeDocumentMoniker": "CpLicoreria\\FrmVenta.cs",
-              "ToolTip": "D:\\4to Semestre\\Proyecto Sis457\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmVenta.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\Proyecto Sis457\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmVenta.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T20:33:53.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "EmpleadoCln.cs",
               "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\ClnLicoreria\\EmpleadoCln.cs",
               "RelativeDocumentMoniker": "ClnLicoreria\\EmpleadoCln.cs",
@@ -335,19 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProductoCln.cs",
-              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\ClnLicoreria\\ProductoCln.cs",
-              "RelativeDocumentMoniker": "ClnLicoreria\\ProductoCln.cs",
-              "ToolTip": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\ClnLicoreria\\ProductoCln.cs",
-              "RelativeToolTip": "ClnLicoreria\\ProductoCln.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwCUAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T00:41:56.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "FrmEmpleado.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmEmpleado.cs",
               "RelativeDocumentMoniker": "CpLicoreria\\FrmEmpleado.cs",
@@ -367,17 +377,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T20:13:49.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "FrmProducto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\4to Semestre\\Salvacion\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmProducto.cs",
-              "RelativeDocumentMoniker": "CpLicoreria\\FrmProducto.cs",
-              "ToolTip": "D:\\4to Semestre\\Proyecto Sis457\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmProducto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\Proyecto Sis457\\Sis457_RuthSimona_Licoreria\\Sis457Licoreria\\CpLicoreria\\FrmProducto.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T19:47:15.093Z"
             },
             {
               "$type": "Document",
