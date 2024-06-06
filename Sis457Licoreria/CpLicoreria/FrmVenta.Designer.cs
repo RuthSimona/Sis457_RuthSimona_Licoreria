@@ -181,16 +181,15 @@
             this.cbxProducto.Name = "cbxProducto";
             this.cbxProducto.Size = new System.Drawing.Size(160, 24);
             this.cbxProducto.TabIndex = 8;
-            this.cbxProducto.Click += new System.EventHandler(this.cbxProducto_SelectedIndexChanged_1);
+            this.cbxProducto.SelectedIndexChanged += new System.EventHandler(this.cbxProducto_SelectedIndexChanged_1);
             // 
             // tbxIdProducto
             // 
-            this.tbxIdProducto.Location = new System.Drawing.Point(111, 20);
+            this.tbxIdProducto.Location = new System.Drawing.Point(117, 24);
             this.tbxIdProducto.Margin = new System.Windows.Forms.Padding(4);
             this.tbxIdProducto.Name = "tbxIdProducto";
             this.tbxIdProducto.Size = new System.Drawing.Size(31, 22);
             this.tbxIdProducto.TabIndex = 6;
-            this.tbxIdProducto.Visible = false;
             // 
             // lblCantidad
             // 
@@ -454,7 +453,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1275, 710);
+            this.ClientSize = new System.Drawing.Size(1275, 689);
             this.Controls.Add(this.txtTotal);
             this.Controls.Add(this.dvgListaVenta);
             this.Controls.Add(this.lblTotal);
