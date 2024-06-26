@@ -45,7 +45,11 @@ namespace CpLicoreria
         private void btnNuevo_Click(object sender, EventArgs e)
         {
             esNuevo = true;
-            Size = new Size(955, 487);
+            limpiar();
+            txtRazon.Visible = true;
+            txtCedula.Visible = true;
+            txtCelular.Visible = true;
+            Size = new Size(955, 487); 
         }
 
         private void btnEditar_Click(object sender, EventArgs e)
@@ -131,7 +135,7 @@ namespace CpLicoreria
                 }
                 listar();
                 btnCancelar.PerformClick();
-                MessageBox.Show("Producto guardado correctamente", "::: Cafeteria - Mensaje :::",
+                MessageBox.Show("Producto guardado correctamente", "::: Licoreria - Mensaje :::",
                     MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
@@ -142,20 +146,18 @@ namespace CpLicoreria
             int id = Convert.ToInt32(dgvLista.Rows[index].Cells["id"].Value);
             string razonSocial = dgvLista.Rows[index].Cells["razonSocial"].Value.ToString();
             DialogResult dialog = MessageBox.Show($"¿Está seguro que desea dar de baja el producto {razonSocial}?",
-                "::: Cafeteria - Mensaje :::", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+                "::: Licoreria- Mensaje :::", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
             if (dialog == DialogResult.OK)
             {
                 ClienteCln.eliminar(id, "SIS457");
                 listar();
-                MessageBox.Show("Producto dado de baja correctamente", "::: Cafeteria - Mensaje :::",
+                MessageBox.Show("Producto dado de baja correctamente", "::: Licoreria - Mensaje :::",
                     MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
         private void btnVolver_Click(object sender, EventArgs e)
         {
-            //FrmPrincipal principal = new FrmPrincipal();
-            //principal.Show();
             this.Close();
         }
 
